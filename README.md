@@ -1,5 +1,19 @@
 # 🎮 Tic-Tac-Toe: Player vs Smart Computer or 2-Player Mode
 
+
+## 📁 Folder Structure
+
+tic-tac-toe-
+├── index.html
+├── game.js
+├── sounds/
+│   ├── click.mp3
+│   ├── win.mp3
+│   └── draw.mp3
+
+
+
+
 This is a fully interactive Tic-Tac-Toe game built using **HTML, CSS, and JavaScript**, where you can play:
 - Against a **smart computer** with difficulty levels (Easy, Medium, Hard), or
 - With a **friend** in local 2-player mode.
@@ -18,15 +32,4 @@ This is a fully interactive Tic-Tac-Toe game built using **HTML, CSS, and JavaSc
 📱 **Responsive design** – works well on all screen sizes  
 
 ---
-
-## 📁 Folder Structure
-
-tic-tac-toe-
-├── index.html
-├── game.js
-├── sounds/
-│   ├── click.mp3
-│   ├── win.mp3
-│   └── draw.mp3
-
 
